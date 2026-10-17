@@ -12,7 +12,7 @@ An ASP.NET Core Web API for managing race events, categories, routes, participan
 
 ## Project layout
 
-```te
+```t
 RaceDayAPI/
 ├── Controllers/       API endpoint controllers
 ├── Data/              RaceDayContext database context
